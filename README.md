@@ -1,4 +1,6 @@
-# README
+# rails 6 saas bootstrap 5 starter
+
+# with webpacker and stimulus
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
